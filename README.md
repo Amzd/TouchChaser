@@ -1,5 +1,5 @@
 # 👈 TouchChaser
-A touch indicator similar to the "Slide to Type" aka QuickPath swipe indicator on iOS 13+ made with SwiftUI.
+A touch indicator similar to the "Slide to Type" aka QuickPath swipe indicator on iOS 13+. Built with and for SwiftUI.
 
 It's not an exact match but it's pretty close.
 
