@@ -6,3 +6,5 @@ It's not an exact match but it's pretty close.
 |  QuickPath                               |  TouchChaser                             |
 |  --------------------------------------  |  --------------------------------------  |
 |  <img src="Images/QuickPath.gif" width="100%">   | <img src="Images/TouchChaser.gif" width="100%">  |
+
+*Gifs might not play in full speed on all browsers
