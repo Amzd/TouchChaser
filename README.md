@@ -3,6 +3,16 @@ A touch indicator similar to the "Slide to Type" aka QuickPath swipe indicator o
 
 It's not an exact match but it's pretty close.
 
+## Features
+
+- **Independent:** Does not interfere with DragGestures
+- **Configurable:** Choose when you want to show TouchChaser; in debug, when recording or always.
+- **Simple:** Just attach it to your view and don't worry about the rest
+
+## Example
+
+There is an example project included but it boils down to this;
+
 ```swift 
 VStack {
     Text("TouchChaser")
